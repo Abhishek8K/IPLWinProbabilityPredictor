@@ -1,4 +1,7 @@
-IPLWinProbabilityPredictor 🏏📊
+# IPLWinProbabilityPredictor 🏏📊
+Live Demo
+# https://iplwinprobabilitypredictor22.streamlit.app/
+
 Project Overview
 The IPLWinProbabilityPredictor is an interactive data analytics project designed to estimate the probability of a team winning an Indian Premier League (IPL) match in real-time. Using historical match data and current game situations, this tool leverages statistical models and machine learning to provide dynamic win predictions as the match progresses.
 
@@ -17,7 +20,4 @@ Key Features
 📊 Visualization of win probability trends throughout the match
 
 🎉 Helps fans enhance their match-watching experience with data-backed insights
-
-Live Demo
-# https://iplwinprobabilitypredictor22.streamlit.app/
 
