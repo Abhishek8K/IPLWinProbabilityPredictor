@@ -6,7 +6,7 @@ import os
 # IPL logo in sidebar
 st.sidebar.image(
     "https://png.pngtree.com/png-clipart/20190516/original/pngtree-ipl-indian-premier-league-logo-png-png-image_4103353.jpg",
-    use_column_width=True
+    use_container_width=True
 )
 
 # Team and city lists
